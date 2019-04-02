@@ -1,0 +1,10 @@
+*.py[co]
+.DS_Store
+.idea
+*.swp*
+*~
+*.log
+.env
+tmp
+venv
+venv/*
